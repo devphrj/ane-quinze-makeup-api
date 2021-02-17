@@ -1,2 +1,2 @@
 # ane-quinze-makeup-frontend
-Website of my girlfriend that i am using to acquire exprience
+API to be used by website of my girlfriend that i am using to acquire exprience
